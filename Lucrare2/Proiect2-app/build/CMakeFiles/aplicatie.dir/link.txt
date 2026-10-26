@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/aplicatie.dir/main.cpp.o -o aplicatie  /home/user/Public/PAOO/Lucrare2/Proiect2-app/../Proiect1-biblio/build/libcalculator.a 

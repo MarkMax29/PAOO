@@ -1,0 +1,3 @@
+/home/user/Public/PAOO/Lucrare2/Proiect1-biblio/build/CMakeFiles/calculator.dir
+/home/user/Public/PAOO/Lucrare2/Proiect1-biblio/build/CMakeFiles/edit_cache.dir
+/home/user/Public/PAOO/Lucrare2/Proiect1-biblio/build/CMakeFiles/rebuild_cache.dir

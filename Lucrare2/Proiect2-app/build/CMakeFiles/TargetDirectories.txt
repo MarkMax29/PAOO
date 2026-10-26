@@ -1,0 +1,3 @@
+/home/user/Public/PAOO/Lucrare2/Proiect2-app/build/CMakeFiles/aplicatie.dir
+/home/user/Public/PAOO/Lucrare2/Proiect2-app/build/CMakeFiles/edit_cache.dir
+/home/user/Public/PAOO/Lucrare2/Proiect2-app/build/CMakeFiles/rebuild_cache.dir
