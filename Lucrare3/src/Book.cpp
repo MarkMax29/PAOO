@@ -3,8 +3,7 @@
 #include <utility>
 
 //Constructor
-Book::Book(const std::string& title, int pages)
-    : title_(title), pages_(new int(pages))
+Book::Book(const std::string& title, int pages): title_(title), pages_(new int(pages))
 {
     std::cout << "[Constructor] " << title_ << "\n";
 }
@@ -17,17 +16,13 @@ Book::~Book()
 }
 
 //Copy Constructor
-Book::Book(const Book& other)
-    : title_(other.title_),
-      pages_(other.pages_ ? new int(*other.pages_) : nullptr)
+Book::Book(const Book& other): title_(other.title_),pages_(other.pages_ ? new int(*other.pages_) : nullptr)
 {
     std::cout << "[Copy Constructor] " << title_ << "\n";
 }
 
 //Move Constructor
-Book::Book(Book&& other) noexcept
-    : title_(std::move(other.title_)),
-      pages_(other.pages_)
+Book::Book(Book&& other) noexcept: title_(std::move(other.title_)), pages_(other.pages_)
 {
     other.pages_ = nullptr;
 
