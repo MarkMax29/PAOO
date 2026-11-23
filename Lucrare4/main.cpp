@@ -17,7 +17,7 @@ int main() {
     // ITEM 5 - Compiler-generated functions
     std::cout << "\n===== ITEM 5: COMPILER-GENERATED FUNCTIONS =====\n";
 
-    Course c1;
+    Course c1;//se apeleaza default constructor generat automat de compilator
     c1.title = "Object Oriented Programming";
     c1.credits = 5;
 
@@ -52,7 +52,7 @@ int main() {
     id1.display();
     id2.display();
 
-    // Uncomment to see compilation errors:
+    // exemple pentru interzicerea copierii
     //UniqueID id3(id1);
     //id2 = id1;
 

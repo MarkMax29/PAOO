@@ -1,0 +1,3 @@
+/home/user/Public/PAOO/Lucrare6/build/CMakeFiles/Lab6.dir
+/home/user/Public/PAOO/Lucrare6/build/CMakeFiles/edit_cache.dir
+/home/user/Public/PAOO/Lucrare6/build/CMakeFiles/rebuild_cache.dir
